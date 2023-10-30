@@ -34,11 +34,8 @@
 <img src="https://github.com/sesac-2023/FinalProj/assets/138412359/4175f84b-8c34-44b3-bc96-c2a1c5ed2ab9" width="350 height="500/>
 
 
-
 ## 🗂️폴더별 설명
 - Final_code : 뉴스 기사 크롤링, 데이터 수집 및 분석, 텔레그램 코드 종합.
-- preprocessing : 뉴스 기사 전처리.
-
 
 ## <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 팀주소
 - https://www.notion.so/5c1a3e42557a4cc596c39584a277cb50?pvs=4
