@@ -30,19 +30,19 @@
  
 
 ## 자동매매 
-<img src="https://github.com/sesac-2023/FinalProj/assets/138412359/94b990a9-b48c-447b-9670-3819bcbaceb9" width="300" height="350"/>
+<img src="https://github.com/sesac-2023/FinalProj/assets/138412359/ec4d65bf-4d69-4731-adc5-227e85fc11d7" width="300" height="350"/>
 <img src="https://github.com/sesac-2023/FinalProj/assets/138412359/4175f84b-8c34-44b3-bc96-c2a1c5ed2ab9" width="350 height="500/>
 
 
-## 🗂️폴더별 설명
+## 🗂️폴더 설명
 - Final_code : 뉴스 기사 크롤링, 데이터 수집 및 분석, 텔레그램 코드 종합.
 
 ## <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> 팀주소
 - https://www.notion.so/5c1a3e42557a4cc596c39584a277cb50?pvs=4
 
 ## 🤼‍♂️ 팀명 : Pentagon
-- **김도훈** = **email**: loneces@naver.com **github**: https://github.com/GitdohunKim
-- **김세영** = **email**: hoseffle@gmail.com **github**: https://github.com/gimseyoung
-- **박상민** = **email**: psm6320@naver.com **github**: https://github.com/psm6320
+- **김도훈** = **email**: loneces@naver.com / **github**: https://github.com/GitdohunKim
+- **김세영** = **email**: hoseffle@gmail.com / **github**: https://github.com/gimseyoung
+- **박상민** = **email**: psm6320@naver.com / **github**: https://github.com/psm6320
 - **정준화** = **email**: behappy_jh@naver.com / **github**: https://github.com/JunHwa1
-- **최용훈** = **email**: cyhgpl@naver.com **github**: https://github.com/sesac-2023/cyhgpl_workspace.git
+- **최용훈** = **email**: cyhgpl@naver.com / **github**: https://github.com/sesac-2023/cyhgpl_workspace.git
