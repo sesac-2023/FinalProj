@@ -116,7 +116,7 @@ async def order(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     response_message = send_order(update.message.text)  # chatgpt(update.message.text)는 요금문제로 안되니까 에코봇으로
     await update.message.reply_text(response_message)
 
-token = '6596004202:AAHHqk197BizBjDnT82DiGgrQLrYiVgoFRw'
+token = "token"
 
 def main() -> None:
     """Start the bot."""
