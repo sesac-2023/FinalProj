@@ -24,7 +24,7 @@
     프로젝트 진행 기간: 2023년 9월 25일(월) ~ 2023년 10월 31일(화)
 
 ## 프로젝트 파이프라인
-<img src="https://github.com/sesac-2023/FinalProj/assets/138412359/a59b1fed-ba7a-4016-9aec-c67a0ee5eccc" width="500" height="300"/>
+<img src="https://github.com/sesac-2023/FinalProj/assets/138412359/e1b4cfd4-a920-4846-bd12-87d2ccdf8234" width="500" height="300"/>
 
 ## 대시보드 결과물
  
