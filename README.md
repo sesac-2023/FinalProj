@@ -27,7 +27,7 @@
 <img src="https://github.com/sesac-2023/FinalProj/assets/138412359/e1b4cfd4-a920-4846-bd12-87d2ccdf8234" width="500" height="300"/>
 
 ## 대시보드 결과물
- 
+ <img src="https://github.com/sesac-2023/FinalProj/assets/138412359/75a2935f-37ed-4abe-8a0f-fcaf73b59e2e" width="500" height="300"/>
 
 ## 자동매매 
 <img src="https://github.com/sesac-2023/FinalProj/assets/138412359/ec4d65bf-4d69-4731-adc5-227e85fc11d7" width="300" height="350"/>
